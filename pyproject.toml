@@ -1,0 +1,23 @@
+[project]
+name = "deepanc"
+version = "0.1.0"
+description = "PyTorch reproduction code for Deep ANC active noise control experiments."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "numpy",
+    "pandas",
+    "scipy",
+    "matplotlib",
+    "tqdm",
+    "torch",
+    "torchaudio",
+    "soundfile",
+]
+
+[project.optional-dependencies]
+dev = ["pytest"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]
