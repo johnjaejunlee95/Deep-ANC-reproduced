@@ -49,7 +49,7 @@ pip install -r requirements.txt
 
 Dataset files are available here: [Synthetic Dataset](https://drive.google.com/file/d/1hs7_eHITxL16HeugjQoqYFTs-Cm7J-Tq/view?usp=sharing)
 
-The dataset is synthetic data referenced from official implementation of GFANC paper.
+The synthetic data and filters here are referenced from official implementation of GFANC paper. 
 
 Paper: [Link](https://arxiv.org/abs/2303.05788) \\
 Github: [Link](https://github.com/Luo-Zhengding/GFANC-Generative-fixed-filter-active-noise-control)
