@@ -1,4 +1,4 @@
-# DeepANC
+# Deep ANC (Active Noise Control)
 
 PyTorch reproduction code for experiments inspired by [**Deep ANC: A deep learning approach to active noise control**](https://www.sciencedirect.com/science/article/pii/S0893608021001258).
 
